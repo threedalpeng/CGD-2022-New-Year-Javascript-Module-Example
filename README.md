@@ -6,3 +6,5 @@
 실제 개발에 참고하기 좋은 코드가 아닐 수 있음을 알립니다.
 
 개발환경: Ubuntu 20.04, Node v16.13.2
+
+발표자료: [자바스크립트 모듈로 코드의 연금술사가 되자!](https://1drv.ms/p/s!AuwW2QJewTzep2k2H216Fez9kCqX?e=goSA2F)
